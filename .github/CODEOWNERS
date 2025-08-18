@@ -1,0 +1,17 @@
+# Global owners
+* @aleskalina
+
+# Frontend specific files
+*.html @aleskalina
+*.css @aleskalina
+*.js @aleskalina
+
+# Python files
+*.py @aleskalina
+
+# Documentation
+*.md @aleskalina
+docs/ @aleskalina
+
+# GitHub specific files
+.github/ @aleskalina
