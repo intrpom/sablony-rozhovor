@@ -1,0 +1,19 @@
+{
+  "name": "sablony-rozhovor",
+  "version": "1.0.0",
+  "description": "Interaktivní kniha o komunikaci ve vztazích",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 dev-server.py",
+    "build": "echo 'Static site - no build required'",
+    "start": "python3 dev-server.py"
+  },
+  "keywords": [
+    "vztahy",
+    "komunikace",
+    "interaktivní-kniha",
+    "koučing"
+  ],
+  "author": "Aleš Kalina",
+    "license": "MIT"
+} 
