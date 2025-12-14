@@ -15,5 +15,8 @@
     "koučing"
   ],
   "author": "Aleš Kalina",
-    "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "_comment": "This is a static site with no npm dependencies. External CDN resources used: Google Fonts (Inter) and Font Awesome 6.0.0/6.4.0 from cdnjs.cloudflare.com"
 } 
